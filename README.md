@@ -40,8 +40,8 @@ https://en.wikipedia.org/wiki/
 https://missinglink.ai/
 
 
-
 ## <ins> Results </ins>
+
 1) After fine-tuning a pre-trained MobileNet model achieved about 99.03% Top-1 Accuracy on the Training set and about 73% accuracy on Valid & test data.
 2) After fine-tuning a pre-trained VGG16 model achieved about 98.03% Top-1 Accuracy on the Training set and about 70% accuracy on Valid & test data.
 3) Using KNN  Algorithm achieved at score:0.404 at K=3
